@@ -1,6 +1,6 @@
 # DLCV4995 - Final Project - Title and Theme Recognition on Video Game Covers
 ---
-Since we have a large model file, it was not able to upload to github. You may using Lion Email (Columbia University Gmail) to access our project. For deadline issue, we are not going to modify any files under this shared folder after 11:58pm Dec 9th 2022. https://drive.google.com/drive/folders/12G9fqoPEWe9IvY06wewRJMnrQ-uGsS5F?usp=sharing
+Since we have a large model file, it was not able to upload to github. You may use Lion Email (Columbia University Gmail) to access our project. For deadline issue, we are not going to modify any files under this shared folder after 11:58pm Dec 9th 2022. https://drive.google.com/drive/folders/12G9fqoPEWe9IvY06wewRJMnrQ-uGsS5F?usp=sharing
 ---
 # Group Members:
 - Ruiting Mei (UNI: rm3959)
