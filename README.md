@@ -10,3 +10,5 @@
 - Running all code under Section `8.1.Prediction Code`, modify the path name to the main directory, such as `./`
 - You can predict your own image by changing the `file_name` of the image file under the main directory and run `predict()`, or run `predict(your image directory)`
 - The output of the prediction will show up a sentence including a cropped image with the name of the title, two of related video game's themes, and the expecting rate of the video game.
+---
+Since we have a large model file, it was not able to upload to github. You may using Lion Email (Columbia University Gmail) to access our project. https://drive.google.com/drive/folders/12G9fqoPEWe9IvY06wewRJMnrQ-uGsS5F?usp=sharing
